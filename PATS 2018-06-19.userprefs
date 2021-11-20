@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Collectible.cs">
+    <Files>
+      <File FileName="Assets\Player.cs" Line="29" Column="37" />
+      <File FileName="Assets\Collectible.cs" Line="15" Column="41" />
+      <File FileName="Assets\Menu and Globals\MenuAndGlobals.cs" Line="75" Column="110" />
+      <File FileName="Assets\Save data\GamePlayer.cs" Line="13" Column="28" />
+      <File FileName="Assets\RLManager.cs" Line="379" Column="91" />
+      <File FileName="Assets\Background.cs" Line="27" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
